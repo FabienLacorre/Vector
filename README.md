@@ -1,3 +1,3 @@
 # Vector
 
-![Screenshot](img/vectorimg.png)
+Screenshot in directory img
